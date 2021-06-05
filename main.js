@@ -2,6 +2,7 @@ noseX = 0;
 noseY = 0
 rightwristX = 0;
 leftwristX = 0;
+difference = 0;
 
 function setup(){
     video = createCapture(VIDEO);
