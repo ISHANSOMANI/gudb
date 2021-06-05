@@ -1,0 +1,38 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.heading{
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    box-shadow: 15px 7px 3px goldenrod;
+    color:black;
+}
+
+body {
+background-color: aquamarine;
+border: solid;
+}
+
+.note{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.copyright_footer{
+    position: fixed ;
+    width: 100%;
+    bottom:0;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    background-color: gray;
+    box-shadow:5px 3px 3px black;
+    border-radius: 15px;
+}
